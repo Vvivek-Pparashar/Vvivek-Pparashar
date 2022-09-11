@@ -12,9 +12,9 @@
   <!-- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a> -->
 <!--   <a href="https://angel.co/u/vvivek-pparashar"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/-angel%20list-yellow?style=for-the-badge&logo=angellist&logoColor=white"></a> -->
-  <a href="https://https://www.codechef.com/users/vivek_03_25"><img alt="Codechef" title="Code Chef" src="https://img.shields.io/badge/-Code Chef-brown?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/vivek_03_25"><img alt="Codechef" title="Code Chef" src="https://img.shields.io/badge/-Code Chef-brown?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/vivekparashar"><img alt="coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy Me Coffee-yellow?style=for-the-badge&logo=kettle&logoColor=white"/></a>
-  <a href="https://https://codeforces.com/profile/vivekparashartkd12"><img alt="codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/vivekparashartkd12"><img alt="codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   
 <!--   <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a> -->
 </p>
